@@ -1,7 +1,19 @@
 {
   "workbench.colorCustomizations": {
-    "activityBar.background": "#570E3E",
-    "titleBar.activeBackground": "#791457",
+    "activityBar.background": "#0a8004",
+    "titleBar.activeBackground": "#0a8004",
     "titleBar.activeForeground": "#FEFCFE"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
   }
 }
